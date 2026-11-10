@@ -1,0 +1,30 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "hvac-invoice-loop-ai-billing-collections-assistant-hvac-contractors-laravel-filament",
+  "description": "HvacInvoiceLoop — AI Billing & Collections Assistant for HVAC Contractors. Automate draft invoices, payment reconcile, and approved reminders on service requests, technicians, and job tickets. Laravel Filament modular SaaS by Imran Ahmed.",
+  "topics": [
+    "laravel",
+    "filament",
+    "hvac",
+    "hvac-contractors",
+    "billing",
+    "collections",
+    "accounts-receivable",
+    "invoicing",
+    "field-service",
+    "job-tickets",
+    "ai-automation",
+    "saas",
+    "docker",
+    "php",
+    "quickbooks",
+    "servicetitan",
+    "jobber",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/contact"
+}
